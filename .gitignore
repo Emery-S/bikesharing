@@ -1,3 +1,4 @@
 .DS_Store
 resources/201908-citibike-tripdata.csv
 resources/revised_citibike_tripdata.csv
+.ipynb_checkpoints
