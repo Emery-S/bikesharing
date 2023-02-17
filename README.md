@@ -17,10 +17,10 @@ As for the weekends, saturday's peak hours arae from 8am-9pm and is most inactiv
 A majority of rideshare trips in new york are short with very few being more than an hour in length. This could be due to the compact nature of new york.
 
 #### Locations
-<img width="400" alt="Screen Shot 2023-02-17 at 4 54 54 PM" src="https://user-images.githubusercontent.com/112206035/219810708-a40d333f-4fec-4786-8bd6-743081ac6287.png">
 
-<img width="475" alt="Screen Shot 2023-02-17 at 4 55 27 PM" src="https://user-images.githubusercontent.com/112206035/219811174-ee7d88e4-c2ed-401c-add8-3026c6442e6d.png">
+<img width="400" alt="Screen Shot 2023-02-17 at 4 54 54 PM" src="https://user-images.githubusercontent.com/112206035/219810708-a40d333f-4fec-4786-8bd6-743081ac6287.png"> <img width="400" alt="Screen Shot 2023-02-17 at 4 55 27 PM" src="https://user-images.githubusercontent.com/112206035/219811174-ee7d88e4-c2ed-401c-add8-3026c6442e6d.png">
 
+Most trips start and end in manhatten with bikesharing becoming less utilized in more spread out areas. Manhatten is very compact and has many tourist spots which likely contributes to this trend.
 
 #### Customers
 
@@ -40,7 +40,7 @@ While most of the users are men, both the female and male identifying subscriber
 
 <img width="600" alt="Screen Shot 2023-02-17 at 4 46 59 PM" src="https://user-images.githubusercontent.com/112206035/219803696-b3fc0c4f-6c17-4dbe-aa06-969cf6d758c6.png">
 
-The trip duration trends, like the time trends, are similar regardless of being female or male identifying, the number of males utilizing bikeshare is just much higher. The unknowns again are the outlier with fewest trips performed, but more consistantly longer trips, which suggests tourists and not short commutes.
+The trip duration trends, like the time trends, are similar regardless of being female or male identifying, the number of males utilizing bikeshare is just much higher. The unknowns have the fewest trips performed with a slightly longer average duration.
 
 #### Age
 
@@ -54,6 +54,12 @@ A majority of consistant users are younger and this consistant usage increases a
 
 From this chart one can surmize that subscribers utilize the app most during the weak. The disparity between usage and gender appears more prevelently in the subscribers with the trips by male subscribers being nearly three times that of the female subscribers. Regular customers are lesser in number than subscribers and there is a smaller disparity between trips performed by males than by females. 
 Overall for regular customers, the largest number of trips are performed on the weekends. Within the regular customers, The unknown gender group performs the most trips. From this, one could surmize the people who are non-subscribers use the app for one time uses or for just over the weekend.
+
+#### Utilizaton and Repair
+
+<img width="400" alt="Screen Shot 2023-02-17 at 4 50 57 PM" src="https://user-images.githubusercontent.com/112206035/219814520-7d58ee30-4e64-45fa-83d7-589f94a1530b.png"><img width="400" alt="Screen Shot 2023-02-17 at 4 51 06 PM" src="https://user-images.githubusercontent.com/112206035/219814526-1a1fae35-f4cc-4f80-babb-18a75c6f31e6.png">
+
+The utilization is relatively even throughout the bikes. Overall need for bike repairs is low for a majority of the bikes.
 
 
 ## Summary 
