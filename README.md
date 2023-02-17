@@ -17,7 +17,7 @@ A majority of rideshare trips in new york are short with very few being more tha
 
 #### Locations
 
-<img width="400" alt="Screen Shot 2023-02-17 at 4 54 54 PM" src="https://user-images.githubusercontent.com/112206035/219810708-a40d333f-4fec-4786-8bd6-743081ac6287.png"> <img width="400" alt="Screen Shot 2023-02-17 at 4 55 27 PM" src="https://user-images.githubusercontent.com/112206035/219811174-ee7d88e4-c2ed-401c-add8-3026c6442e6d.png">
+<img width="400" alt="Screen Shot 2023-02-17 at 4 54 54 PM" src="https://user-images.githubusercontent.com/112206035/219810708-a40d333f-4fec-4786-8bd6-743081ac6287.png"> <img width="450" alt="Screen Shot 2023-02-17 at 4 55 27 PM" src="https://user-images.githubusercontent.com/112206035/219811174-ee7d88e4-c2ed-401c-add8-3026c6442e6d.png">
 
 Most trips start and end in manhatten with bikesharing becoming less utilized in more spread out areas. Manhatten is very compact and has many tourist spots which likely contributes to this trend.
 
