@@ -43,7 +43,7 @@ The trip duration trends, like the time trends, are similar regardless of being 
 
 #### Age
 
-<img width="736" alt="Screen Shot 2023-02-17 at 4 49 35 PM" src="https://user-images.githubusercontent.com/112206035/219805016-a11a4a29-1983-44a5-936c-5c57927fb455.png">
+<img width="600" alt="Screen Shot 2023-02-17 at 4 49 35 PM" src="https://user-images.githubusercontent.com/112206035/219805016-a11a4a29-1983-44a5-936c-5c57927fb455.png">
 
 A majority of consistant users are younger and this consistant usage increases as age decreases. this suggest that bikshare is rapidly growing and will become a major commute option with younger generations.
 
