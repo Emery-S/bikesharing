@@ -31,7 +31,7 @@ A majority of trips are performed by subscribers
 
 <img width="150" alt="Screen Shot 2023-02-17 at 4 50 12 PM" src="https://user-images.githubusercontent.com/112206035/219803442-f9a54ce8-5221-427b-be8b-c8cee4b182f5.png">
 
-A majority of trips are performed by men
+A majority of trips are performed by male identifying people
 
 <img width="600" alt="Screen Shot 2023-02-17 at 4 47 49 PM" src="https://user-images.githubusercontent.com/112206035/219803471-9ef77bb5-70d9-414a-9e78-995dfaea4282.png">
 
