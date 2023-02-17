@@ -35,7 +35,7 @@ A majority of trips are performed by male identifying people
 
 <img width="600" alt="Screen Shot 2023-02-17 at 4 47 49 PM" src="https://user-images.githubusercontent.com/112206035/219803471-9ef77bb5-70d9-414a-9e78-995dfaea4282.png">
 
-While most of the users are men, both the female and male identifying subscribers have the same peak hour patterns. The unknowns differ in that a majority of their trips are on the weekends and have no peaj hours during the week.
+While most of the users are male, both the female and male identifying subscribers have the same peak hour patterns. The unknowns differ in that a majority of their trips are on the weekends and have no peaj hours during the week.
 
 <img width="600" alt="Screen Shot 2023-02-17 at 4 46 59 PM" src="https://user-images.githubusercontent.com/112206035/219803696-b3fc0c4f-6c17-4dbe-aa06-969cf6d758c6.png">
 
