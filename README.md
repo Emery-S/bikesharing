@@ -3,19 +3,20 @@ Overview of the analysis: Explain the purpose of this analysis.
 ## Overview
 The purpose of this analysis is to examine the bikeshare data in the 5 boroughs of New York in order to determine the feasability of bikeshare in other cities such as Des Moines. The charts created take a look at  peak times, trip duration, peak locations, subscribed verses non-subscribed customers, gender, age, how trip time and duration differ by gender, bike utilization, and bike repairs.
 ## Results
-Peak Times
+#### Peak Times
+
 <img width="400" alt="Screen Shot 2023-02-17 at 4 47 27 PM" src="https://user-images.githubusercontent.com/112206035/219801964-e3670257-2105-40a8-9bc4-3197fa9c4da1.png">
 
-The weekdays morning peak hours are from 7am-10am and the evening peak hours are from 4pm-8pm. Friday is an exception with peak hours starting around 12pm and ending at 8pm. The most inactive times on the weekends 
+The weekdays morning peak hours are from 7am-10am and the evening peak hours are from 4pm-8pm. Friday is an exception with peak hours starting around 12pm and ending at 8pm. The most inactive times on the weekdays is from 12am-4am
+As for the weekends, saturday's peak hours arae from 8am-9pm and is most inactive from 2am-5a and sunday's peak hours 9am-8pm and the mostinactive time is from 2am-6am.
 
-
-Customers
+#### Customers
 
 <img width="250" alt="Screen Shot 2023-02-17 at 4 49 40 PM" src="https://user-images.githubusercontent.com/112206035/219800665-a52c6a59-209a-4789-b4e2-7798900a52cb.png">
 
 A majority of trips are performed by subscribers
 
-Gender
+#### Gender
 
 <img width="192" alt="Screen Shot 2023-02-17 at 4 50 12 PM" src="https://user-images.githubusercontent.com/112206035/219803442-f9a54ce8-5221-427b-be8b-c8cee4b182f5.png">
 
