@@ -1,5 +1,4 @@
-# bikesharing
-Overview of the analysis: Explain the purpose of this analysis.
+# Bikesharing
 ## Overview
 The purpose of this analysis is to examine the bikeshare data in the 5 boroughs of New York in order to determine the feasability of bikeshare in other cities such as Des Moines. The charts created take a look at  peak times, trip duration, peak locations, subscribed verses non-subscribed customers, gender, age, how trip time and duration differ by gender, bike utilization, and bike repairs.
 ## Results
